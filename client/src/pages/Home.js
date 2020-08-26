@@ -6,6 +6,7 @@ import PostsList from "../components/PostsList";
 const Home = () => {
   return (
     <Container fluid>
+  
       <Row>
         <Col size="md-6">
           <CreatePostForm />
